@@ -1,4 +1,3 @@
-
 FROM manimcommunity/manim:v0.18.1
 
 USER root
